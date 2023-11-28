@@ -1,6 +1,3 @@
-"""
-Esto es el inicio
-"""
 d1 = {
     "Nombre": "Jorgue",
     "Edad": 25,
