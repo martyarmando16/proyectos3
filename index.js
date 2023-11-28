@@ -1,0 +1,3 @@
+/**
+Home is a component 
+ */
