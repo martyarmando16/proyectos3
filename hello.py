@@ -6,6 +6,8 @@ Vas a tener que imprimir otra linea
 #Esto lo agregué localmente
 print("Hello World")
 
+print("Hello GitHub")
+
 d1 = {
     "Nombre": "Jorgue",
     "Edad": 25,
